@@ -7,7 +7,7 @@ api_id = 26048878
 api_hash = "735a5e369c70f328eab9ad3c52c3b5cf"
 session_str = "1BVtsOJ8Buz3zAoep33SxzSD1KIihvPTYqi8p8smqw7w_XxDa5AwXrbXs7famTJpzq5xZM1S3x955DvAP8GnQV7Dib6Mlp07ExtEF4SAC7VEyPX7OVYQllGcM-Ih1pYpmtC6qzkIalvipQgD9IJCycen4wbVsoXSIkUbv15TUyMQgFI2m5iTVzcaG4P0l2j68imWCqCZtX4VqkNrA3ZUj_0T8h_WF9QyRDJdyTabbhhh9PnhyQMLKk9KM2ob3mfT9VQie4qHJ0siYAcuKcKwgwQMb3WH3ncUWcAyRpuunmt2Lv3oAyQVw4vnPInECl8v3JtYJRrYrWuvJU8iVcW_v4WQk8Mp1Xm8="
 
-TARGET = "@pcgou","@DBTX520","@jndqz"
+TARGET = "@DBTX520"
 PREFIX = "格沃独家算法"  # ← 想改前缀就改这里
 history = []
 results = []
